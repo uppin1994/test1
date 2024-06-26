@@ -1,0 +1,1 @@
+Branch: It is a set or group of commits, which contains N no. of commits.
